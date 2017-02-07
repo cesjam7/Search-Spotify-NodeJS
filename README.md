@@ -1,2 +1,7 @@
-# Search-Spotify-NodeJS
-Command Line Application for search album, artist or track in Spotify
+# Search Spotify NodeJS
+
+Para buscar debes ejecutar el siguiente comando:
+
+node app (tipo: track, artist, album) (busqueda)
+
+Ej. node app artist van
